@@ -69,7 +69,7 @@ Note that, for now it only supports following crops
 
 
 ## Further Improvements
-This was my first big project so there are lot of things to improve upon
+This was my first big project so there are lot of things to improve upon :
 
 - Frontend can be made more nicer 	
 - More data can be collected manually via web scrapping to make the system more accurate
