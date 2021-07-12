@@ -81,9 +81,9 @@ terminado==0.9.1
 testpath==0.4.4
 threadpoolctl==2.1.0
 toml==0.10.2
-torch
+torch==1.9.0+cpu
 torchaudio
-torchvision
+torchvision==0.10.0+cpu
 tornado==6.1
 traitlets==5.0.5
 txt2tags==3.7
