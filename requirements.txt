@@ -2,7 +2,8 @@ numpy
 pandas
 Flask
 scikit-learn
-torch
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.2.0+cpu
 torchvision
 requests
 Pillow
