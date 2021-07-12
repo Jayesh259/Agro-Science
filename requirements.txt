@@ -1,9 +1,10 @@
+-f https://download.pytorch.org/whl/torch_stable.html
 numpy
 pandas
 Flask
 scikit-learn
-https://files.pythonhosted.org/packages/18/dc/364619ec35762f0fda9b1ac5bc73e4372a0e451f15e38ef601d3ef006a17/torch-1.9.0-cp39-cp39-manylinux1_x86_64.whl
-torchvision==0.10.0
+torch==1.8.1+cpu 
+torchvision==0.9.1+cpu
 requests
 Pillow
 gunicorn == 20.0.4
