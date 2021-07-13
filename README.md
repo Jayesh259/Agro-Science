@@ -39,7 +39,7 @@
 
 - ### ML Web App 
 
-![demo](https://media.giphy.com/media/v8lOpM8qa6Xuo2x5AS/giphy.gif)
+![demo](https://media.giphy.com/media/E8lwUDUwnTxRhOWDgI/giphy.gif)
 
 - ### Crop recommendation system
 
