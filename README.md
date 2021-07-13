@@ -43,7 +43,7 @@
 
 - ### Crop recommendation system
 
-![demo](https://media.giphy.com/media/wBzVoBH7bIZxwd1GXH/giphy.gif)
+![demo](https://media.giphy.com/media/pJiguE9qPrcU70zKZC/giphy.gif)
 
 - ### Fertilizer suggestion system
 
