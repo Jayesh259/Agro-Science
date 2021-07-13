@@ -35,6 +35,23 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/pytorch/pytorch/39fa0b5d0a3b966a50dcd90b26e6c36942705d6d/docs/source/_static/img/pytorch-logo-dark.svg"></code>
 
+## DEMO 
+
+- ### ML Web App 
+
+![demo](https://media.giphy.com/media/v8lOpM8qa6Xuo2x5AS/giphy.gif)
+
+- ### Crop recommendation system
+
+![demo](https://media.giphy.com/media/wBzVoBH7bIZxwd1GXH/giphy.gif)
+
+- ### Fertilizer suggestion system
+
+![demo](https://media.giphy.com/media/hfu1SdusHZOkA5GAnO/giphy.gif)
+
+- ### Disease Detection system
+
+![demo](https://media.giphy.com/media/gw3NTgRv0nXXohFArS/giphy.gif)
 
 
 ## How to use
