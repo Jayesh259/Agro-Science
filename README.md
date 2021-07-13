@@ -39,11 +39,11 @@
 
 - ### ML Web App 
 
-![demo](https://media.giphy.com/media/E8lwUDUwnTxRhOWDgI/giphy.gif)
+![demo](https://media.giphy.com/media/v8lOpM8qa6Xuo2x5AS/giphy.gif)
 
 - ### Crop recommendation system
 
-![demo](https://media.giphy.com/media/pJiguE9qPrcU70zKZC/giphy.gif)
+![demo](https://media.giphy.com/media/E8lwUDUwnTxRhOWDgI/giphy.gif)
 
 - ### Fertilizer suggestion system
 
